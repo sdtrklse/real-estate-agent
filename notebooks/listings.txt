@@ -1,0 +1,70 @@
+1. Neighborhood: Upper East Side, Manhattan, New York
+   Price: $2,500,000
+   Bedrooms: 3
+   Bathrooms: 2
+   Size: 1,800 sqft
+   Description: Luxury penthouse with stunning views of Central Park, high-end finishes, and top-of-the-line appliances.
+
+2. Neighborhood: Beverly Hills, California
+   Price: $10,000,000
+   Bedrooms: 6
+   Bathrooms: 8
+   Size: 10,000 sqft
+   Description: Magnificent estate with a pool, tennis court, and guest house, perfect for entertaining.
+
+3. Neighborhood: South Beach, Miami, Florida
+   Price: $1,200,000
+   Bedrooms: 2
+   Bathrooms: 2.5
+   Size: 1,500 sqft
+   Description: Modern condo with ocean views, designer kitchen, and access to a rooftop pool and gym.
+
+4. Neighborhood: Buckhead, Atlanta, Georgia
+   Price: $800,000
+   Bedrooms: 4
+   Bathrooms: 3.5
+   Size: 3,000 sqft
+   Description: Traditional Southern charm meets modern amenities in this spacious family home.
+
+5. Neighborhood: Old Town, Chicago, Illinois
+   Price: $600,000
+   Bedrooms: 2
+   Bathrooms: 2
+   Size: 1,200 sqft
+   Description: Historic brownstone townhouse with original details, exposed brick, and a private backyard.
+
+6. Neighborhood: Pacific Heights, San Francisco, California
+   Price: $5,000,000
+   Bedrooms: 4
+   Bathrooms: 3.5
+   Size: 3,500 sqft
+   Description: Elegant Victorian mansion with panoramic views of the Golden Gate Bridge and Alcatraz.
+
+7. Neighborhood: Georgetown, Washington D.C.
+   Price: $1,500,000
+   Bedrooms: 3
+   Bathrooms: 2.5
+   Size: 2,000 sqft
+   Description: Federal-style townhouse with a charming courtyard, renovated kitchen, and original hardwood floors.
+
+8. Neighborhood: The Woodlands, Houston, Texas
+   Price: $700,000
+   Bedrooms: 5
+   Bathrooms: 4
+   Size: 4,500 sqft
+   Description: Modern farmhouse on a large lot with a backyard oasis, pool, and outdoor kitchen.
+
+9. Neighborhood: South Loop, Chicago, Illinois
+   Price: $400,000
+   Bedrooms: 1
+   Bathrooms: 1
+   Size: 800 sqft
+   Description: Chic loft-style condo with exposed ductwork, industrial accents, and skyline views.
+
+10. Neighborhood: Park Slope, Brooklyn, New York
+    Price: $1,000,000
+    Bedrooms: 3
+    Bathrooms: 2
+    Size: 1,500 sqft
+    Description: Renovated brownstone with a private garden, chef's kitchen, and original woodwork.
+
